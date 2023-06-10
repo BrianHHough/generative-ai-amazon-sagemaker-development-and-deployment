@@ -1,4 +1,4 @@
-# Data Science on AWS
+# Generative AI & Data Science with Amazon SageMaker on AWS
 
 ## Description
 
@@ -37,6 +37,16 @@ Fine-tuning FLAN-T5 for summarizing conversation dialog
 8. [Create an automated end-to-end ML MLOps workflow with SageMaker Pipelines](./08_Create_End_to_End_MLOps_Pipeline.ipynb)
 9. [Deploy a fine-tuned generative AI model to a real-time SageMaker Endpoint](./09_Approve_and_Deploy_Model.ipynb)
 10. [Run inference on a SageMaker Endpoint in real time](./10_Generate_Text_With_Fine_Tuning.ipynb)
+
+
+## Outputs from the Amazon SageMaker pipeline:
+
+### Example #1: Summarizing a celebratory conversation
+![](./img/Output_NobelPrize.png)
+
+### Example 2: Summarizing a special event
+![](./img/Output_Birthday.png)
+
 
 ## O'Reilly Book:  Data Science on AWS
 This workshop is based on the O'Reilly Book, "Data Science on AWS", by Chris Fregly and Antje Barth @ AWS.
